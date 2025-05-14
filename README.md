@@ -1,4 +1,4 @@
-# 🚢 Titanic Classification Project – Supervised Learning Lab
+# 🚢 Titanic Classification Project
 
 This project was completed as part of the Business Intelligence Lab 2 coursework at Dalarna University. The goal is to perform predictive analysis on the classic Titanic dataset using machine learning models — specifically Decision Tree and Random Forest classifiers — to predict passenger survival.
 
